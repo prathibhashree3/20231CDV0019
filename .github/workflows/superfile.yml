@@ -23,4 +23,4 @@ jobs:
         run: javac *.java
 
       - name: Run Java program
-        run: java EvenNumbers
+        run: java EvenNumber
